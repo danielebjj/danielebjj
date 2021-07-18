@@ -4,7 +4,7 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  <b>Oi gente!!</b>
+  <b>Olá!!</b>
 </p>
 <a href="https://www.instagram.com/nutelasbjj/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
@@ -17,12 +17,12 @@ Sou a <b> Daniele Menezes</b>.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente trabalho freelancer:
+Atualmente trabalho como freelancer em:
 </p>
 <p align="left" >
 <ul>
-  <li> Serviços de edição de vídeos </li>
-  <li> Serviços de design </li>
+  <li> Serviços de edição de vídeos. </li>
+  <li> Serviços de design. </li>
 </ul>
 </p>
 </p>
@@ -31,19 +31,19 @@ Atualmente trabalho freelancer:
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626552720080.png" width="400px" />
 
-- 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack. 
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar sobre hacking e Lockpick; 
-  - Gravar conteúdos;
-  - Ler livros;
-  - Jogar League of Legends;
+
+- 👩‍💻 Estou começando na tecnologia;
+- Meus hobbies são: 
+  - Lutar jiu-jitsu (meu maior amor); 
+  - Tocar guitarra;
+  - Ler livros que mudaram a minha perspectiva de vida;
+  - Estudar sobre hacking e Lockpick;
+  - E futuramente construir sistemas que ajudaram mulheres serem TOTALMENTE INDEPENDENTES; 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para nutelasbjj@gmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+- 📫 Se quiser pode enviar um email para nutelasbjj@gmail.com 
+- 📲 Ou no instagram:@nutellasbjj.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielebjj&layout=compact&theme=graywhite&title_color=268bd2" alt="Daniele-Menezes" />
