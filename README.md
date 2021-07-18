@@ -38,12 +38,12 @@ Atualmente trabalho como freelancer em:
 - Meus hobbies são: 
   - Lutar jiu-jitsu (meu maior amor); 
   - Tocar guitarra;
-  - Ler livros que mudaram a minha perspectiva de vida;
+  - Ler livros;
   - Estudar sobre hacking e Lockpick;
-  - E futuramente construir sistemas que ajudaram mulheres serem TOTALMENTE INDEPENDENTES; 
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para nutelasbjj@gmail.com 
-- 📲 Ou no instagram:@nutellasbjj.
+  - E futuramente construir sistemas que ajudaram mulheres, serem TOTALMENTE INDEPENDENTES; 
+- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar!!
+- 📫 Se quiser, envie um email para: nutelasbjj@gmail.com 
+- 📲 Ou no instagram: @nutellasbjj.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielebjj&layout=compact&theme=graywhite&title_color=268bd2" alt="Daniele-Menezes" />
