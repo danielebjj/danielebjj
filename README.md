@@ -38,9 +38,7 @@ Atualmente trabalho como freelancer em:
 - Meus hobbies são: 
   - Lutar jiu-jitsu (meu maior amor); 
   - Tocar guitarra;
-  - Ler livros;
-  - Estudar sobre hacking e Lockpick;
-  - E futuramente construir sistemas que ajudaram mulheres, serem TOTALMENTE INDEPENDENTES; 
+  - Ler livros; 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar!!
 - 📫 Se quiser, envie um email para: nutelasbjj@gmail.com 
 - 📲 Ou no instagram: @nutellasbjj.
