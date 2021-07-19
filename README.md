@@ -1,12 +1,12 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
-<a href="https://github.com/strongreen" target="_blank">
+<a href="https://github.com/danielebjj" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
   <b>Olá!!</b>
 </p>
-<a href="https://www.instagram.com/nutelasbjj/" target="_blank">
+<a href="https://www.instagram.com/nutellasbjj/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
@@ -34,7 +34,7 @@ Atualmente trabalho como freelancer em:
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626552720080.png" width="400px" />
 
 
-- 👩‍💻 Estou começando na tecnologia;
+- 👩‍💻 Estou começando na área de tecnologia;
 - Meus hobbies são: 
   - Lutar jiu-jitsu (meu maior amor); 
   - Tocar guitarra;
