@@ -1,4 +1,4 @@
-## Hello! I'm Daniele Menezes 
+## Hi darling! I'm Daniele Menezes 
  <div>
   <a href="https://github.com/beacons.page/nutellasbjj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielemenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
