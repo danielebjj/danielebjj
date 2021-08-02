@@ -6,11 +6,26 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</a>
+<p align="left" >
+  <div>
+I live in SP-BR.<br />
+I'm a video editor.
+   <p align="left" >
+But I'm loving the programming area.
+<hr />
 
+**My personal interests:**
+   
+- Study information systems;
+- My hobbies are:
+  - Fighting jiu-jitsu;
+  - Record content;
+  - Read books;
+  - And study english;
+- 💬 Feel free to call me, I'll be very happy to help;
+- 📫 If you want you can send an email to nutellasbjj@gmail.com
 
- </div>
-  
-</div>
 <div style="display: inline_block"><br>
 <div> 
   <a href="https://instagram.com/nutellasbjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
