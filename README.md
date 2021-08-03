@@ -9,7 +9,10 @@
 </a>
 <p align="left" >
   <div>
-I live in SP-BR.<br />
+   <h2>
+   About me
+   </h2>
+   I live in SP-BR.<br />
 I'm a video editor.
    <p align="left" >
 But I'm loving the programming area.
@@ -27,7 +30,7 @@ But I'm loving the programming area.
 - 📫 If you want you can send an email to nutellasbjj@gmail.com
 
 <div style="display: inline_block"><br>
-<div> 
+</div> 
   <a href="https://instagram.com/nutellasbjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a> 
   <a href = "mailto:nutelasbjj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
