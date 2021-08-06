@@ -39,4 +39,6 @@ But I'm loving the programming area.
 
  
 </div>
+ <div>
 ⭐️ Baseado em [strongreen](https://github.com/strongreen)
+ </div>
