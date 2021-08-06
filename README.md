@@ -40,5 +40,5 @@ But I'm loving the programming area.
  
 </div>
  <div>
-⭐️ Baseado em [strongreen](https://github.com/strongreen)
+⭐️ Baseado em (https://github.com/strongreen)
  </div>
