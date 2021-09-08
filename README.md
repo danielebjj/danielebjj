@@ -20,7 +20,6 @@ But I'm loving the programming area.
 
 **My personal interests:**
    
-- I will study information systems;
 - My hobbies are:
   - Fighting jiu-jitsu;
   - Record content;
